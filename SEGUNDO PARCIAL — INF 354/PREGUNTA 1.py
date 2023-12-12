@@ -1,4 +1,5 @@
-#1. Generar una red neuronal (sin librerias) que utilice el dataset iris con producto punto, errores y de dos capas.
+#1. Generar una red neuronal (sin librerias) que utilice el dataset iris con producto punto, 
+errores y de dos capas.
 
 import numpy as np
 from sklearn import datasets
